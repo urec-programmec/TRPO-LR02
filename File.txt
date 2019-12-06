@@ -1,4 +1,5 @@
 ﻿Hohoho! I'm the Leader String of this page! (master & margaret says)
+﻿Hohoho! I'm the Leader String of this page! (test says)
 
 Лабораторная работа №2
 Цель: Изучить основные команды системы контроля версий git
